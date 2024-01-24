@@ -16,7 +16,7 @@ namespace Pensionary.Controllers.Retired
         //      retiredService.AddRetired(ret);
         //    return CreatedAtAction("PostRetired", new {ret.RetiredId });
         //}
-        // RetiredService retiredService=new RetiredService();
+        // RetiredService retiredService=new RetiredService();inside
 
 
     }
