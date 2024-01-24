@@ -9,13 +9,14 @@ namespace Pensionary.Controllers.Retired
     [ApiController]
     public class RetiredController : ControllerBase
     {
-       // RetiredService retiredService=new RetiredService();
+        // RetiredService retiredService=new RetiredService();
         //[HttpPost]
         //public async Task<IActionResult> PostRetired(DAL.Models.Retired ret)
         //{
         //      retiredService.AddRetired(ret);
         //    return CreatedAtAction("PostRetired", new {ret.RetiredId });
         //}
+        // RetiredService retiredService=new RetiredService();
 
 
     }
