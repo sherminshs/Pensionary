@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pensionary", "Pensionary.csproj", "{764F616C-78EA-400E-BD47-5672262C98BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{29CA571D-E988-4B4B-BAF1-B9E414A1C484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764F616C-78EA-400E-BD47-5672262C98BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764F616C-78EA-400E-BD47-5672262C98BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764F616C-78EA-400E-BD47-5672262C98BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764F616C-78EA-400E-BD47-5672262C98BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CA571D-E988-4B4B-BAF1-B9E414A1C484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CA571D-E988-4B4B-BAF1-B9E414A1C484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CA571D-E988-4B4B-BAF1-B9E414A1C484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CA571D-E988-4B4B-BAF1-B9E414A1C484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92750882-2ABD-4C3C-B2C1-A5218921C8DF}
+	EndGlobalSection
+EndGlobal
